@@ -12,4 +12,4 @@
 
 #### 분석 기법
 K-means, Spatial Lag model, Spatial Error model, Dijkstra algorithm, Spanning Tree
-팀 내 본인 주 역할 : 팀 총괄, 전처리 및 시각화, K-means, Spatial Lag model, Spanning Tree, 
+팀 내 본인 주 역할 : 팀 총괄, 전처리 및 시각화, K-means, Spatial Lag model, Spanning Tree
